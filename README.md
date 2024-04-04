@@ -43,7 +43,10 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
  > Liste aqui todas as tecnologias utilizadas para concluir a entrega
   
  ### Tecnologias da Informação
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+ 
+* Jira Sofwtare
+* Github
+* Turbologo
 
 # Sprints
 
