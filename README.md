@@ -27,7 +27,11 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 | Team Member   | Mariana Diniz              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-nepomuceno-04943720a/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Nepoun)        |
 |  Team Member  | José Augusto|         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caio-vitor-c1/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CaioVitorDias1)        |
 |  Team Member  | Rafael Santos                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-camargo-915452196/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GabrielCamargoL)   |
-|  Team Member  | Samuel Sales       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gioliveirass) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gioliveirass)          |
+|  Team Member  | Samuel Sales       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)] <a href="www.linkedin.com/in/
+samuel-sales-9b24a0302 </a>
+
+
+) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gioliveirass)          |
 
 # Objetivo do Projeto
 Esperando o joão a fazer
@@ -41,7 +45,9 @@ Esperando o joão a fazer
  
 * Jira Sofwtare
 * Github
-* Turbologo
+* Slack
+* Power BI
+* Office
 
 # Sprints
 
@@ -86,15 +92,11 @@ Requisitos não funcionais
 
 
 ## Sprint 1. Concepção
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [ ] Backlog do produto;
+- [ ] Estruturar o Github com link disponibilizado;
+- [ ] Estruturar o Jira Software;
+- [ ] Atribuição das atividades para a Sprint 2;
+
 
 ## Sprint 2. Desenvolvimento do Projeto
 - [ ] Documento passo a passo;
@@ -115,11 +117,11 @@ Requisitos não funcionais
 - [ ] Finalize e aprovação.
       
 ## Sprint 4. Operacionalização
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
+- [ ] Defina o propósito do template;
+- [ ] Identifique os elementos principais;
+- [ ] Esboce o layout;
+- [ ] Escolha cores e fontes;
+- [ ] Desenvolva o design;
 - [ ] Teste e revise;
 - [ ] Documente instruções de uso;
 - [ ] Criação do vídeo;
