@@ -34,12 +34,14 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 ) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gioliveirass)          |
 
 # Objetivo do Projeto
-Esperando o joão a fazer
+
+Desenvvolver uma interface de análise de dados para a qualifacação de exportações para o aeroporto de São José Dos Campos
 
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
  > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+
   
  ### Tecnologias da Informação
  
