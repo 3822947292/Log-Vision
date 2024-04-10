@@ -39,7 +39,7 @@ Desenvvolver uma interface de análise de dados para a qualifacação de exporta
 
  ### Tecnologias Específicas/Apoio
  > Liste aqui todas as tecnologias utilizadas para concluir a entrega
-
+*Whatsapp
   
  ### Tecnologias da Informação
  
