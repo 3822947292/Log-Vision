@@ -32,7 +32,7 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 
 # Objetivo do Projeto
 
-Desenvvolver uma interface de análise de dados para a qualifacação de exportações para o aeroporto de São José Dos Campos
+Desenvolver uma interface de análise de dados para a qualifacação de exportações para o aeroporto de São José Dos Campos
 
 ## Tecnologias Utilizadas
 
@@ -91,40 +91,20 @@ Requisitos não funcionais
 
 
 ## Sprint 1. Concepção
-- [ ] Backlog do produto;
-- [ ] Estruturar o Github com link disponibilizado;
-- [ ] Estruturar o Jira Software;
-- [ ] Atribuição das atividades para a Sprint 2;
+- [x] Backlog do produto;
+- [x] Estruturar o Github com link disponibilizado;
+- [x] Estruturar o Jira Software;
+- [x] Atribuição das atividades para a Sprint 2;
 
 
 ## Sprint 2. Desenvolvimento do Projeto
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
+
       
-## Sprint 3 . Implementação
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+## Sprint 3. 
+
       
-## Sprint 4. Operacionalização
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+## Sprint 4. 
+
 
 # Funcionalidades e registros (vídeos e apresentações) das sprints
 
