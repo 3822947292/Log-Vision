@@ -32,7 +32,7 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 
 # Objetivo do Projeto
 
-Desenvolver uma interface de análise de dados para a qualifacação de exportações para o aeroporto de São José Dos Campos
+Desenvolver uma interface de análise de dados direcionada a qualificação de exportações para o aeroporto de São José Dos Campos
 
 ## Tecnologias Utilizadas
 
@@ -62,21 +62,23 @@ Sprint | Previsão | Status| Histórico|
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints[(clique aqui)].
-(https://github.com/users/JoseAugusto003/Cronograma Log Vision)
+#### Cronograma das Sprints[(clique aqui)]
+(https://github.com/users/JoseAugusto003/projects/2/views/1)
 
 # Requisitos
 
 Requisitos funcionais 
 - Conteúdo da apresentação   
-- Relatórios 
+- Relatório
+- Backlog do produto
+- Estruturação do Github e Jira Software 
 
 
   
 Requisitos não funcionais
 - Usar tecnologias especifícas/apoio/tecnológicas
 - Metodologias ágil
-- Jira Software 
+- Design do Jira Software e Github
   
 # Backlog do produto
   
