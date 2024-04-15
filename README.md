@@ -45,15 +45,15 @@ Desenvolver uma interface de análise de dados para a qualifacação de exporta�
 * Jira Sofwtare
 * Github
 * Slack
-* Power BI
+* PowerPoint 
 * Office
 
 # Sprints
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 11/03/2024 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|01 | 15/04/2024 | em progresso| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Kick Off | 11/03/2024 | concluído| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|01 | 15/04/2024 | concluído| [Ver Relatório](https://1drv.ms/w/s!AjYy1U2jXbGFi05x1rc4a5Gsz1GR?e=rieBHy) | 
 |01| 06/05/2024| a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |02| 27/05/2024 | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |03| 17/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
@@ -62,20 +62,21 @@ Sprint | Previsão | Status| Histórico|
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints[(clique aqui)](https://github.com/users/JoseAugusto003/ Cronograma Log Vision)
+#### Cronograma das Sprints[(clique aqui)].
+(https://github.com/users/JoseAugusto003/Cronograma Log Vision)
 
 # Requisitos
 
 Requisitos funcionais 
 - Conteúdo da apresentação   
 - Relatórios 
-- Experiência do usuário ao oferecer algo mais (UX)
+
 
   
 Requisitos não funcionais
 - Usar tecnologias especifícas/apoio/tecnológicas
 - Metodologias ágil
-- Power BI / Jira / Canvas
+- Jira Software 
   
 # Backlog do produto
   
@@ -108,19 +109,14 @@ Requisitos não funcionais
 
 # Funcionalidades e registros (vídeos e apresentações) das sprints
 
-Apresentação das funcionalidades
-Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
-
-Adicionar video e documentos nessa seção
-
-[![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
 
 # Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)
 <details>
 <summary>Hard Skills desenvolvidas</summary>
-  
+Conhecimento em:Github, Jira software e relatórios.
+Trabalho em equipe.
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
 | GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
@@ -135,7 +131,7 @@ Adicionar video e documentos nessa seção
 ## Soft Skill (saber comportamental)
 <details>
 <summary>Soft Skills desenvolvidas</summary>
-
+Agilidade, Autodidata.
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
 | Colaboração | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
@@ -149,5 +145,4 @@ Adicionar video e documentos nessa seção
 
 
 
-# Log-Vision
-Apresentação
+
