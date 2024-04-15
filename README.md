@@ -11,7 +11,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Sprints](#Sprints)
 * [Burndown](#Burndown)
 * [Backlog do produto](#Backlog-do-produto)
-* [Funcionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
+* [Funcionalidades e registros (vídeos e apresentações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 
 
@@ -52,7 +52,7 @@ Desenvolver uma interface de análise de dados direcionada a qualificação de e
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 11/03/2024 | concluído| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Kick Off | 11/03/2024 | concluído| [Ver Relatório](https://1drv.ms/w/s!AjYy1U2jXbGFi05x1rc4a5Gsz1GR?e=rieBHy) | 
 |01 | 15/04/2024 | concluído| [Ver Relatório](https://1drv.ms/w/s!AjYy1U2jXbGFi05x1rc4a5Gsz1GR?e=rieBHy) | 
 |01| 06/05/2024| a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |02| 27/05/2024 | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
@@ -62,7 +62,7 @@ Sprint | Previsão | Status| Histórico|
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints[(clique aqui)]
+#### Cronograma das Sprints[(clique aqui↓)]
 (https://github.com/users/JoseAugusto003/projects/2/views/1)
 
 # Requisitos
@@ -110,6 +110,7 @@ Requisitos não funcionais
 
 
 # Funcionalidades e registros (vídeos e apresentações) das sprints
+Em desenvolvimento 
 
 
 # Competências desenvolvidas
