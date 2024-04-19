@@ -16,7 +16,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 
 # Projeto (API) 
-Descrição da demanda realizada pelo parceiro acadêmico.
+O plano envolve uma exposição mostrando a interação entre o consumidor e o item, o qual precisa ser elaborado para a importação e exportação pelo aeroporto de São José dos Campos. Para isso, no início do processo, foi solicitado o uso de ferramentas atualizadas para a criação do plano, como o GitHub, Jira e Slack. Essas tecnologias são essenciais para a comunicação entre o grupo e o cliente, proporcionando uma melhor compreensão da logística organizacional. Para a participação de todos os membros mencionados, foram atribuídas tarefas para serem cumpridas com dedicação, responsabilidade e colaboração do grupo, especialmente do Product Owner e Scrum Master, que desempenham um papel crucial na liderança e nas adaptações do projeto. Em resumo, é possível concluir que os resultados desejados são alcançados de maneira eficaz e precisa, visando atender às expectativas do cliente tanto agora quanto nas perspectivas futuras. 
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
@@ -44,9 +44,8 @@ Desenvolver uma interface de análise de dados direcionada a qualificação de e
  
 * Jira Sofwtare
 * Github
-* Slack
-* PowerPoint 
-* Office
+* Slack 
+* Pacote Office
 
 # Sprints
 
