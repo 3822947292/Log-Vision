@@ -84,21 +84,33 @@ Requisitos não funcionais
   
 <div align="center">
 
-## Sprint 1. Concepção
-- [x] Backlog do produto;
+## Sprint 1. Concepção dos objetivos e estruturação das  plataformas 
+- [ ] Backlog do produto;
 - [x] Estruturar o Github com link disponibilizado;
 - [x] Estruturar o Jira Software;
-- [x] Atribuição das atividades para a Sprint 2;
+- [ ] Atribuição das atividades para a Sprint 2;
 
 
-## Sprint 2. Desenvolvimento do Projeto
-
+## Sprint 2. Realizar uma pesquisa sobre os produtos que passam pela RM Vale e Litoral
+- [ ] Fazer a Linkagem das tabelas fornecidas pelo cliente
+- [ ] Analisar os dados das tabelas
+- [ ] Realizar uma pesquisa sobre os  produtos que passam pelo RM Vale 
+- [ ] Pesquisar sobre o valor FOB dos produtos que passam pela RM Vale
+- [ ] Pesquisar sobre o peso dos produtos que passam pela RM Vale 
       
-## Sprint 3. 
-
+## Sprint 3. Realizar uma pesquisa sobre o aeroporto de São José dos Campos, verificar suas qualidades e possibilidades de exportação
+- [ ]  Realizar uma pesquisa sobre o aeroporto de SJC
+- [ ]  Pesquisar sobre os armazéns do aeroporto de SJC
+- [ ]  Pesquisar sobre os tipos de aeronaves que trafegam no aeroporto de SJC
+- [ ]  Pesquisar sobre as rotas que saem e passam pelo aeroporto de SJC
+- [ ]  Pesquisar sobre o tempo que a carga passa no aeroporto
+- [ ]  Pesquisar sobre o custo do tempo em que a carga passa no aeroporto
       
-## Sprint 4. 
-
+## Sprint 4. Alinhar os pontos referente aos produtos, a forma de exportação e a própria exportação.
+- [ ] Pesquisar sobre companhias aereas que oferecem o serviço de exportação
+- [ ] Análise dos riscos da exportação
+- [ ] Pesquisar sobre seguro de cargas
+- [ ] Verificar a viabilidade de seguro das exportações 
 
 # Funcionalidades e registros (vídeos e apresentações) das sprints
 Em desenvolvimento 
