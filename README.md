@@ -53,9 +53,9 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 11/03/2024 | concluído| [Ver Relatório](https://1drv.ms/w/s!AjYy1U2jXbGFi05x1rc4a5Gsz1GR?e=rieBHy) | 
 |01 | 15/04/2024 | concluído| [Ver Relatório](https://1drv.ms/w/s!AjYy1U2jXbGFi05x1rc4a5Gsz1GR?e=rieBHy) | 
-|01| 06/05/2024| a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|02| 27/05/2024 | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| 17/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
+|02| 06/05/2024| a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|03| 27/05/2024 | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|04| 17/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Feira de Soluções|27/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 ## Cronograma
@@ -90,27 +90,26 @@ Requisitos não funcionais
 - [ ] Atribuição das atividades para a Sprint 2;
 
 
-## Sprint 2. Realizar uma pesquisa sobre os produtos que passam pela RM Vale e Litoral
-- [ ] Fazer a Linkagem das tabelas fornecidas pelo cliente
-- [ ] Analisar os dados das tabelas
-- [ ] Realizar uma pesquisa sobre os  produtos que passam pelo RM Vale 
-- [ ] Pesquisar sobre o valor FOB dos produtos que passam pela RM Vale
-- [ ] Pesquisar sobre o peso dos produtos que passam pela RM Vale 
-      
-## Sprint 3. Realizar uma pesquisa sobre o aeroporto de São José dos Campos, verificar suas qualidades e possibilidades de exportação
-- [ ]  Realizar uma pesquisa sobre o aeroporto de SJC
-- [ ]  Pesquisar sobre os armazéns do aeroporto de SJC
-- [ ]  Pesquisar sobre os tipos de aeronaves que trafegam no aeroporto de SJC
-- [ ]  Pesquisar sobre as rotas que saem e passam pelo aeroporto de SJC
-- [ ]  Pesquisar sobre o tempo que a carga passa no aeroporto
-- [ ]  Pesquisar sobre o custo do tempo em que a carga passa no aeroporto
-      
-## Sprint 4. Alinhar os pontos referente aos produtos, a forma de exportação e a própria exportação.
-- [ ] Pesquisar sobre companhias aereas que oferecem o serviço de exportação
-- [ ] Análise dos riscos da exportação
-- [ ] Pesquisar sobre seguro de cargas
-- [ ] Verificar a viabilidade de seguro das exportações 
+## Sprint 2. Realizar uma pesquisa sobre os Segmentos de Mercado que atuam na RM Vale e Litoral Norte 
 
+- [ ] Realizar uma pesquisa sobre os principais segmentos de mercado que atuam na RM Vale e Litoral Norte
+- [ ] Análise e separação de cada segmento de mercado
+- [ ] Localização de cada segmento de mercado
+- [ ] Criar um mapa interativo de visualização geográfica da atuação de cada segmento
+
+## Sprint 3.  Realizar uma pesquisa sobre os produtos que tarfegam na RM Vale e Litoral Norte 
+
+- [ ] Realizar uma pesquisa geral sobre os produtos que trafegam na RM Vale e litoral baseado na Sprint anterior
+- [ ] Distribuir os produtos e fazer a lsitagem dentro de cada segmento
+- [ ] Coleta de dados gerais dos produtos
+- [ ] Aplicação dos dados obtidos durante a pesquisa na interface de visualizção
+      
+## Sprint 4. Realizar uma pesquisa aplicada sobre os produtos que trafegam na RM Vale e Litoral Norte 
+
+- [ ] Fazer a linkagem das tabelas de importação
+- [ ] Atribuição de valores para os produtos
+- [ ] Aplicação dos dados obtidos durante a pesquisa na interface de visualizção
+      
 # Funcionalidades e registros (vídeos e apresentações) das sprints
 Em desenvolvimento 
 
