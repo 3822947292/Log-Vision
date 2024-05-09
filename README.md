@@ -21,7 +21,6 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Sprints](#Sprints)
-* [Burndown](#Burndown)
 * [Backlog do produto](#Backlog-do-produto)
 * [Funcionalidades e registros (vídeos e apresentações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
 * [Competências desenvolvidas](#competências-desenvolvidas)
@@ -115,6 +114,10 @@ Requisitos não funcionais
 - [ ] Distribuir os produtos e fazer a lsitagem dentro de cada segmento
 - [ ] Coleta de dados gerais dos produtos
 - [ ] Aplicação dos dados obtidos durante a pesquisa na interface de visualizção
+- [ ] Inserir média do valor agregado por municipio
+- [ ] Alterar gráfico (valor médio)
+- [ ] Adicionar nova aba com os produtos mais lucrativos
+- [ ] Detalhar os 5 municipios que tem o maior valor agregado em ordem decrescente
       
 ## Sprint 4. Realizar uma pesquisa aplicada sobre os produtos que trafegam na RM Vale e Litoral Norte 
 
