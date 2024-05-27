@@ -84,27 +84,27 @@ Requisitos não funcionais
 <div align="center">
 
 ## Sprint 1. Concepção dos objetivos e estruturação das  plataformas 
-- [ ] Backlog do produto;
+- [x] Backlog do produto;
 - [x] Estruturar o Github com link disponibilizado;
 - [x] Estruturar o Jira Software;
-- [ ] Atribuição das atividades para a Sprint 2;
+- [x] Atribuição das atividades para a Sprint 2;
 
 
 ## Sprint 2. Realizar uma pesquisa sobre os Segmentos de Mercado que atuam na RM Vale e Litoral Norte 
 
-- [ ] Realizar uma pesquisa sobre os principais segmentos de mercado que atuam na RM Vale e Litoral Norte
-- [ ] Análise e separação de cada segmento de mercado
-- [ ] Localização de cada segmento de mercado
-- [ ] Criar um mapa interativo de visualização geográfica da atuação de cada segmento
+- [x] Realizar uma pesquisa sobre os principais segmentos de mercado que atuam na RM Vale e Litoral Norte
+- [x] Análise e separação de cada segmento de mercado
+- [x] Localização de cada segmento de mercado
+- [x] Criar um mapa interativo de visualização geográfica da atuação de cada segmento
 
 ## Sprint 3.  Realizar uma pesquisa sobre os produtos que tarfegam na RM Vale e Litoral Norte 
 
-- [ ] Realizar uma pesquisa geral sobre os produtos que trafegam na RM Vale e litoral baseado na Sprint anterior
-- [ ] Distribuir os produtos e fazer a lsitagem dentro de cada segmento
-- [ ] Coleta de dados gerais dos produtos
-- [ ] Aplicação dos dados obtidos durante a pesquisa na interface de visualizção
+- [x] Realizar uma pesquisa geral sobre os produtos que trafegam na RM Vale e litoral baseado na Sprint anterior
+- [x] Distribuir os produtos e fazer a lsitagem dentro de cada segmento
+- [x] Coleta de dados gerais dos produtos
+- [x] Aplicação dos dados obtidos durante a pesquisa na interface de visualizção
 - [ ] Inserir média do valor agregado por municipio
-- [ ] Alterar gráfico (valor médio)
+- [x] Alterar gráfico (valor médio)
 - [ ] Adicionar nova aba com os produtos mais lucrativos
 - [ ] Detalhar os 5 municipios que tem o maior valor agregado em ordem decrescente
       
