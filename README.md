@@ -113,6 +113,9 @@ Requisitos não funcionais
 - [ ] Fazer a linkagem das tabelas de importação
 - [ ] Atribuição de valores para os produtos
 - [ ] Aplicação dos dados obtidos durante a pesquisa na interface de visualizção
+- [ ] Realizar pesquisas no site comex stat
+- [ ] Observar cargas que serão transportados por meio aéreo
+- [ ] Observar cargas que serão transportadas por meio rodoviário
       
 # Funcionalidades e registros (vídeos e apresentações) das sprints
 Em desenvolvimento 
