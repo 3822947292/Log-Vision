@@ -96,7 +96,7 @@ Requisitos não funcionais
 - [x] Localização de cada segmento de mercado
 - [x] Criar um mapa interativo de visualização geográfica da atuação de cada segmento
 
-## Sprint 3.  Realizar uma pesquisa sobre os produtos que tarfegam na RM Vale e Litoral Norte 
+## Sprint 3.  Realizar uma pesquisa sobre os produtos que trafegam na RM Vale e Litoral Norte 
 
 - [x] Realizar uma pesquisa geral sobre os produtos que trafegam na RM Vale e litoral baseado na Sprint anterior
 - [x] Distribuir os produtos e fazer a lsitagem dentro de cada segmento
