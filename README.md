@@ -102,19 +102,19 @@ Requisitos não funcionais
 - [x] Distribuir os produtos e fazer a lsitagem dentro de cada segmento
 - [x] Coleta de dados gerais dos produtos
 - [x] Aplicação dos dados obtidos durante a pesquisa na interface de visualizção
-- [ ] Inserir média do valor agregado por municipio
+- [x] Inserir média do valor agregado por municipio
 - [x] Alterar gráfico (valor médio)
-- [ ] Adicionar nova aba com os produtos mais lucrativos
-- [ ] Detalhar os 5 municipios que tem o maior valor agregado em ordem decrescente
+- [x] Adicionar nova aba com os produtos mais lucrativos
+- [x] Detalhar os 5 municipios que tem o maior valor agregado em ordem decrescente
       
 ## Sprint 4. Realizar uma pesquisa aplicada sobre os produtos que trafegam na RM Vale e Litoral Norte 
 
-- [ ] Fazer a linkagem das tabelas de importação
-- [ ] Atribuição de valores para os produtos
-- [ ] Aplicação dos dados obtidos durante a pesquisa na interface de visualizção
-- [ ] Realizar pesquisas no site comex stat
-- [ ] Observar cargas que serão transportados por meio aéreo
-- [ ] Observar cargas que serão transportadas por meio rodoviário
+- [x] Fazer a linkagem das tabelas de importação
+- [x] Atribuição de valores para os produtos
+- [x] Aplicação dos dados obtidos durante a pesquisa na interface de visualizção
+- [x] Realizar pesquisas no site comex stat
+- [x] Observar cargas que serão transportados por meio aéreo
+- [x] Observar cargas que serão transportadas por meio rodoviário
       
 # Funcionalidades e registros (vídeos e apresentações) das sprints
 Em desenvolvimento 
