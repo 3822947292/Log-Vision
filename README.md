@@ -32,7 +32,7 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 
 # Objetivo do Projeto
 
-Desenvvolver uma interface de análise de dados para a qualifacação de exportações para o aeroporto de São José Dos Campos
+Desenvolver uma interface de análise de dados para a qualifacação de exportações para o aeroporto de São José Dos Campos
 
 ## Tecnologias Utilizadas
 
